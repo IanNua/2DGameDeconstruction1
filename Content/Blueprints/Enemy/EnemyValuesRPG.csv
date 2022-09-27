@@ -1,0 +1,7 @@
+﻿,EnemyName,EnemyHealth,EnemyAttack
+Entry1,Halfling,5,0.5
+Entry2,Human,10,1
+Entry3,Orc,15,1.5
+Entry4,Elf,9,1.5
+Entry5,Troll,20,2
+Entry6,Giant,30,3
